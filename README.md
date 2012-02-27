@@ -10,6 +10,7 @@ To install `ecc.js`:
 
 ## Usage
 
-For details see the examples folder.
+For usage details see the in code documentation
+and the examples folder.
 
 TODO
