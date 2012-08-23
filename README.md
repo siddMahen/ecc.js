@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/siddMahen/ecc.js.png)](http://travis-ci.org/siddMahen/ecc.js)
 # ecc.js
 
 Elliptic curve cryptographic functions for node.js
