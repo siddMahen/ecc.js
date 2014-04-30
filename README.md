@@ -2,6 +2,14 @@
 
 Elliptic curve cryptographic functions for node.js
 
+## Attention! Disclaimer!
+
+Do not use any portion of this library in production. This library
+does not provide any security in a production environment.
+
+If you want to use ECC in production, please use a library such as
+[NaCl](http://nacl.cr.yp.to/).
+
 ## Installation
 
 To install `ecc.js`:
@@ -17,7 +25,7 @@ and the examples folder.
 
 (The MIT License)
 
-Copyright (C) 2012 by Siddharth Mahendraker
+Copyright (C) 2014 by Siddharth Mahendraker
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
